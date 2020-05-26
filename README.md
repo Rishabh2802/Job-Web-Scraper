@@ -1,2 +1,3 @@
 # Job-Web-Scraper
-Web scrapping from monster.com for python developer's job
+Web scraping from www.monster.com website of data having job title="Python Developer" using tools BeautifulSoup and Selenium
+Website usually got change over time so the tags used in this repository might not work
